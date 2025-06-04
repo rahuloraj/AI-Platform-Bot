@@ -1,15 +1,11 @@
-# Platform-IO
-
-**Version**: V1  
-**Team**: DevSync  
-**Project Leader**: Adham Haitham Eid - adhamhaithameid@gmail.com
-
-**Hackathon**: Salam Hackathon (13 – 20 Ramadan 1446) / (13 - 20 March 2025)
+# Platform-BOT 
+**Team**: DevGurus  
+**Project Leader**: Rahul Raj
 
 ---
 
 ## Overview
-**Platform-IO** is an AI-powered, collaborative development platform created for the *Salam Hackathon* during Ramadan. Our main goals were:
+**Platform-BOT** is an AI-powered, collaborative development platform Our main goals were:
 - To provide an interactive UI that can help teams build and manage projects quickly.
 - To integrate AI-powered features for coding assistance, file management, and more.
 - To ensure professional and responsive design with minimal overhead.
