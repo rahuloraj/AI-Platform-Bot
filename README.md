@@ -99,7 +99,4 @@ Demo Videos
 We created two demo videos on YouTube:
 
 [* #### Demo Only – Showcasing the platform features.]: #
-
-* #### Demo with the Team – [A discussion with the project’s team, exploring the platform.](https://youtu.be/IKgpYHlJJus?si=KFjWIok0v-xxh2sQ)
-
-Disclaimer: This project is an early prototype (V1) built within 6 days for the Salam Hackathon. While functional, it may require additional optimization, security reviews, and code clean-up for production use.
+Disclaimer: This project is an early prototype (V1) built within 30 days, it may require additional optimization, security reviews, and code clean-up for production use.
